@@ -1,4 +1,3 @@
-# get_code_number
 
 ch = input("문자 1개를 입력하세요: ")
 
